@@ -319,11 +319,11 @@ the website, in dark theme
 }
 
 .home__data{
-  padding: 1.5rem;
+  padding: 1rem;
 }
 
 .home__img{
-  max-width: 30rem;
+  max-width: 20rem;
   justify-self: center;
 }
 
