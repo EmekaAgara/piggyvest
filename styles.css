@@ -310,12 +310,13 @@ the website, in dark theme
 
 /*=============== HOME ===============*/
 .home{
-  padding: 6.5rem 0 2rem;
+  padding: 5.5rem 0 2rem;
 }
 
 .home__container{
   position: relative;
   row-gap: 2rem;
+  padding: 2rem 0rem ;
 }
 
 .home__img{
@@ -335,7 +336,6 @@ the website, in dark theme
   text-align: center;
   margin-bottom: var(--mb-0-75);
   font-weight: 100;
-  padding: 1rem 0rem ;
 }
 
 .p__button{
